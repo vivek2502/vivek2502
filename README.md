@@ -1,7 +1,7 @@
 ## <p align="center">Hello 👋</p>
 
 ### <p align="center">[viveksde.in](http://www.viveksde.in/)</p>
-![image](https://user-images.githubusercontent.com/42957988/180761765-9d8f28ad-afa0-4037-86c4-bb3bd75d4018.png)
+![image](https://user-images.githubusercontent.com/42957988/180762620-d3ae3c2e-b523-44bd-86d2-125e7369255a.png)
 - 🔭 I’m Developer. I write Code...
 - 👀 I’m looking for project where i can create awesome end-to-end software.
 - 🌱 I’m currently learning end-to-end project development.
